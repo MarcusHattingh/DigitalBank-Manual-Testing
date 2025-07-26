@@ -15,3 +15,12 @@ This is a manual testing portfolio project based on the ParaBank demo banking ap
 ## Demo App Under Test
 
 🔗 https://parabank.parasoft.com/parabank/index.htm
+
+## Folder Structure
+
+- TestPlan: Contains the full test plan document (PDF)  
+- TestCases: Contains detailed test cases for each module in Excel format
+
+## Application Under Test
+
+ParaBank Demo: https://parabank.parasoft.com/parabank/index.htm

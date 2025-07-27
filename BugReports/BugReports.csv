@@ -1,0 +1,5 @@
+Bug ID,Title,Description,Steps to Reproduce,Expected Result,Actual Result,Severity,Priority,Status,Screenshot
+BUG_001,Login with blank fields shows no error,"When login is attempted with empty username and password, no error is shown",1. Go to login > 2. Leave both fields blank > 3. Click Login,Error messages should appear,"No error shown, login just reloads",High,High,New,Screenshot_001.png
+BUG_002,Transfer accepts negative amount,"Transfer allows negative amounts, which should be invalid",1. Login > 2. Go to Transfer Funds > 3. Enter -500 as amount > 4. Submit,Error message should be shown,Transfer seems to process,Critical,High,New,Screenshot_002.png
+BUG_003,Same account selected for from/to,System allows transfer from same account to same account,"1. Go to Transfer Funds > 2. Select same account in both dropdowns > 3. Enter amou_
+",Error should say 'accounts must be different',"No error shown, transfer proceeds",Medium,Medium,New,Screenshot_003.png

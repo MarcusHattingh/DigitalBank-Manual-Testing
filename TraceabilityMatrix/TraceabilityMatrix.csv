@@ -1,0 +1,6 @@
+Requirement ID,Requirement Description,Test Case ID,Bug ID (if any),Status
+REQ_LOGIN_01,User should be able to log in with valid credentials,TC_LOGIN_01,,Passed
+REQ_LOGIN_02,System should show errors for invalid login attempts,TC_LOGIN_02; TC_LOGIN_03; TC_LOGIN_04,BUG_001,Failed
+REQ_TRANSFER_01,User should be able to transfer funds between accounts,TC_TRANSFER_01,,Passed
+REQ_TRANSFER_02,System should reject invalid amounts and inputs,TC_TRANSFER_02; TC_TRANSFER_03; TC_TRANSFER_04,BUG_002,Failed
+REQ_TRANSFER_03,Transfer between same account should be prevented,TC_TRANSFER_05,BUG_003,Failed

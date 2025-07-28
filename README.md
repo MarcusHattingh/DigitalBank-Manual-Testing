@@ -20,6 +20,10 @@ This is a manual testing portfolio project based on the ParaBank demo banking ap
 
 - TestPlan: Contains the full test plan document (PDF)  
 - TestCases: Contains detailed test cases for each module in Excel format
+- BugReports: Reported defects with IDs, steps, severity, and suggested fixes
+- TraceabilityMatrix: Mapping between requirements, test cases, and bugs
+- ExploratoryTesting: Freestyle testing sessions and observations
+- SQL_Testing: Practical SQL queries to validate backend data
 
 ## Application Under Test
 

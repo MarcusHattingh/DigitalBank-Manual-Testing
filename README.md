@@ -9,7 +9,6 @@ This is a manual testing portfolio project based on the ParaBank demo banking ap
 - Bug Reports
 - Traceability Matrix
 - SQL Queries
-- Postman Collection
 - Exploratory Testing Notes
 
 ## Demo App Under Test
